@@ -61,6 +61,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AppCls01</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>CiInfo</apexClass>
         <enabled>false</enabled>
     </classAccesses>
